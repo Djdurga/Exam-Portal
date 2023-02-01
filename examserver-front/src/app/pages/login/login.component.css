@@ -1,0 +1,9 @@
+.full-width{
+    width: 100%;
+}
+
+img {
+    width: 50%;
+    max-width: 250px;
+    height: auto;
+  }
